@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727120107872",
+    "project_id": "fireapp-a8c7a",
+    "storage_bucket": "fireapp-a8c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727120107872:android:c9943a706f241611ce6605",
+        "android_client_info": {
+          "package_name": "com.cos.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727120107872-j47hmeovkgm85kbdpu3382f0hj3du1kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cos.fireapp",
+            "certificate_hash": "53fdb94f1399e55e269ee54c8daa1b2c451deb49"
+          }
+        },
+        {
+          "client_id": "727120107872-qiahbs8mj5arm9117cghmirujkc2lupb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwhzEwkg4aqIpeLlznRjzcjFYZKN3Kuws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727120107872-qiahbs8mj5arm9117cghmirujkc2lupb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
